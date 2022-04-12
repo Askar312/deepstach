@@ -1,0 +1,82 @@
+.dSAeiK {
+  display: flex;
+  position: fixed;
+  z-index: 4;
+  height: 5.75rem;
+  width: 100%;
+  padding-top: 1.25rem;
+}
+.jUkzzC {
+  display: flex;
+  position: fixed;
+  max-width: 59.0625rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.hddPUx {
+  display: flex;
+  width: 100vw;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.dhSqUJ {
+  width: 10rem;
+  height: 2.25rem;
+  fill: none;
+}
+.cWJMcK {
+  display: flex;
+}
+.ceXhFn {
+  display: flex;
+  cursor: pointer;
+  height: 2rem;
+  padding-inline: 0.5rem;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin-top: 1px;
+}
+.icBjwA {
+  margin: 0px;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
+  -webkit-box-orient: unset;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  color: rgb(116, 60, 122);
+}
+.kAPyXy {
+  appearance: unset;
+  color: rgb(255, 255, 255);
+  text-align: unset;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(116, 60, 122);
+  border: 1px solid transparent;
+  display: inline-flex;
+  padding-inline: 1.5rem;
+  height: unset;
+  outline: none;
+  border-radius: 2.25rem;
+  position: relative;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  margin-left: 1rem;
+}
+.jJVprb {
+  display: flex;
+  visibility: visible;
+}

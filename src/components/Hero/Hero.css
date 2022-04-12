@@ -1,0 +1,120 @@
+.iPmKUi {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.gTdDoU {
+  display: flex;
+  flex-direction: column;
+  min-width: 31.25rem;
+  height: 360px;
+}
+.kdLyRJ {
+  margin: 0px 0px 0px 0.25rem;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
+  -webkit-box-orient: unset;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 900;
+  text-align: center;
+}
+.czBtQV {
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: start;
+}
+.jUtnVU {
+  display: flex;
+  z-index: 2;
+  max-width: 37.5rem;
+  position: relative;
+  -webkit-box-pack: start;
+  justify-content: start;
+}
+.dcitaC {
+  margin: 0px;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro";
+  display: block;
+  -webkit-box-orient: unset;
+}
+.cgLeYC {
+  margin: 2.5rem 0px 2rem 0.25rem;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
+  -webkit-box-orient: unset;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 400;
+  width: 65%;
+}
+b {
+  font-weight: bold;
+}
+.idhWmW {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  align-items: flex-end;
+}
+.DMZvI {
+  appearance: unset;
+  color: rgb(255, 255, 255);
+  text-align: unset;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(116, 60, 122);
+  border: 1px solid transparent;
+  display: inline-flex;
+  padding-inline: 2rem;
+  height: unset;
+  outline: none;
+  border-radius: 2.25rem;
+  position: relative;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  margin-right: 1rem;
+}
+.ebphTq {
+  margin: 0px;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
+  -webkit-box-orient: unset;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+.gQbrcj {
+  margin: 0px;
+  text-overflow: unset;
+  overflow: unset;
+  font-family: "Source Sans Pro", sans-serif;
+  display: block;
+  -webkit-box-orient: unset;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  color: rgb(116, 60, 122);
+}
+.iiLkZq {
+  display: flex;
+  cursor: pointer;
+  height: 3rem;
+  padding-inline: 0.5rem;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin-bottom: 1px;
+}
